@@ -4,7 +4,11 @@ Simple endless runner built with `pygame`, plus a `NEAT` training loop that can 
 
 ## Demo: AI playing automously, no human control
 
-<video src="https://github.com/urdadx/autonomous-dino/raw/main/.github/auto-dino-2026-04-26_14.35.42.mp4" controls muted playsinline width="100%"></video>
+GitHub repository `README.md` pages do not reliably play `.mp4` files inline.
+Use one of these links to watch the demo:
+
+- View on GitHub: [auto-dino-2026-04-26_14.35.42.mp4](https://github.com/urdadx/autonomous-dino/blob/main/.github/auto-dino-2026-04-26_14.35.42.mp4)
+- Raw video: [auto-dino-2026-04-26_14.35.42.mp4](https://github.com/urdadx/autonomous-dino/raw/main/.github/auto-dino-2026-04-26_14.35.42.mp4)
 
 
 ## Requirements

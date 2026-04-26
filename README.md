@@ -46,7 +46,7 @@ Controls:
 - `R` or `Space` after game over: restart
 - close the window: quit
 
-## Watch A Trained Agent
+## Watch A Trained Agent play
 
 Load the default saved winner and watch it play:
 

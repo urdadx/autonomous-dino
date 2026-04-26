@@ -2,6 +2,11 @@
 
 Simple endless runner built with `pygame`, plus a `NEAT` training loop that can learn to play the game.
 
+## Demo: AI playing automously, no human control
+
+<video src="https://github.com/urdadx/autonomous-dino/raw/main/.github/auto-dino-2026-04-26_14.35.42.mp4" controls muted playsinline width="100%"></video>
+
+
 ## Requirements
 
 - Python `3.12+`
@@ -232,5 +237,3 @@ python3 main.py
 - The game core is structured so a future DQN trainer can plug into the same environment.
 - NEAT currently uses the compact numeric observation vector from `dino/game.py`.
 - Training success is based on survival and obstacle clearing, not raw rendered pixels.
-# autonomous-dino
-# autonomous-dino

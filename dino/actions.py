@@ -1,0 +1,8 @@
+ACTION_IDLE = 0
+ACTION_JUMP = 1
+ACTION_COUNT = 2
+
+ACTION_NAMES = {
+    ACTION_IDLE: "idle",
+    ACTION_JUMP: "jump",
+}

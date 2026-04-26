@@ -1,0 +1,193 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.12.8)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+
+ ****** Running generation 0 ****** 
+
+Population's average fitness: -1.47698 stdev: 2.33094
+Best fitness: 17.57000 - size: (1, 9) - species 1 - id 29
+Average adjusted fitness: 0.028
+Mean genetic distance 1.759, standard deviation 0.527
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    0    73     17.570    0.032     0
+     2    0    77      8.680    0.025     0
+Total extinctions: 0
+Generation time: 2.322 sec
+
+Best individual in generation 0 meets fitness threshold - complexity: (1, 9)
+Validation: generation=0 avg_score=5.67 best_score=11 avg_survival=8.14s
+
+ ****** Running generation 1 ****** 
+
+Population's average fitness: -0.23424 stdev: 5.19857
+Best fitness: 33.58667 - size: (1, 9) - species 1 - id 252
+Average adjusted fitness: 0.049
+Mean genetic distance 1.721, standard deviation 0.547
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    1    82     33.587    0.036     0
+     2    1    68     29.963    0.062     0
+Total extinctions: 0
+Generation time: 2.398 sec (2.360 average)
+
+Best individual in generation 1 meets fitness threshold - complexity: (1, 9)
+Validation: generation=1 avg_score=4.33 best_score=8 avg_survival=6.78s
+
+ ****** Running generation 2 ****** 
+
+Population's average fitness: -0.21569 stdev: 5.58848
+Best fitness: 38.74333 - size: (1, 7) - species 2 - id 304
+Average adjusted fitness: 0.046
+Mean genetic distance 1.784, standard deviation 0.577
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    2    70     31.810    0.034     1
+     2    2    80     38.743    0.059     0
+Total extinctions: 0
+Generation time: 2.378 sec (2.366 average)
+
+Best individual in generation 2 meets fitness threshold - complexity: (1, 7)
+Validation: generation=2 avg_score=9.67 best_score=12 avg_survival=11.83s
+
+ ****** Running generation 3 ****** 
+
+Population's average fitness: 0.77176 stdev: 5.93123
+Best fitness: 26.43000 - size: (1, 7) - species 1 - id 445
+Average adjusted fitness: 0.099
+Mean genetic distance 1.954, standard deviation 0.489
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    3    92     26.430    0.088     2
+     2    3    58     22.920    0.109     1
+Total extinctions: 0
+Generation time: 2.663 sec (2.440 average)
+
+Best individual in generation 3 meets fitness threshold - complexity: (1, 7)
+Validation: generation=3 avg_score=5.33 best_score=6 avg_survival=7.75s
+
+ ****** Running generation 4 ****** 
+
+Population's average fitness: 0.64447 stdev: 10.43974
+Best fitness: 117.19000 - size: (1, 7) - species 2 - id 597
+Average adjusted fitness: 0.025
+Mean genetic distance 2.128, standard deviation 0.548
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    4    85     29.970    0.012     3
+     2    4    65    117.190    0.038     0
+Total extinctions: 0
+Generation time: 2.426 sec (2.437 average)
+Saving checkpoint to models/neat-single-jump-checkpoint-5
+
+Best individual in generation 4 meets fitness threshold - complexity: (1, 7)
+Validation: generation=4 avg_score=11.67 best_score=28 avg_survival=13.84s
+
+ ****** Running generation 5 ****** 
+
+Population's average fitness: 1.77527 stdev: 12.37532
+Best fitness: 136.90667 - size: (1, 7) - species 2 - id 597
+Average adjusted fitness: 0.029
+Mean genetic distance 2.091, standard deviation 0.455
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    5    77     26.337    0.023     4
+     2    5    73    136.907    0.034     0
+Total extinctions: 0
+Generation time: 2.556 sec (2.457 average)
+
+Best individual in generation 5 meets fitness threshold - complexity: (1, 7)
+Validation: generation=5 avg_score=11.67 best_score=28 avg_survival=13.84s
+
+ ****** Running generation 6 ****** 
+
+Population's average fitness: 3.61896 stdev: 21.08011
+Best fitness: 249.74000 - size: (1, 7) - species 2 - id 597
+Average adjusted fitness: 0.022
+Mean genetic distance 1.833, standard deviation 0.448
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    6    64     14.320    0.014     5
+     2    6    86    249.740    0.031     0
+Total extinctions: 0
+Generation time: 2.714 sec (2.494 average)
+
+Best individual in generation 6 meets fitness threshold - complexity: (1, 7)
+Validation: generation=6 avg_score=11.67 best_score=28 avg_survival=13.84s
+
+ ****** Running generation 7 ****** 
+
+Population's average fitness: 1.67373 stdev: 6.73812
+Best fitness: 31.69000 - size: (1, 7) - species 1 - id 596
+Average adjusted fitness: 0.109
+Mean genetic distance 1.704, standard deviation 0.473
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    7    58     31.690    0.088     6
+     2    7    92     21.167    0.129     1
+Total extinctions: 0
+Generation time: 2.590 sec (2.506 average)
+
+Best individual in generation 7 meets fitness threshold - complexity: (1, 7)
+Validation: generation=7 avg_score=1.00 best_score=3 avg_survival=3.96s
+
+ ****** Running generation 8 ****** 
+
+Population's average fitness: 4.75131 stdev: 24.80790
+Best fitness: 204.17333 - size: (1, 6) - species 1 - id 1294
+Average adjusted fitness: 0.033
+Mean genetic distance 1.677, standard deviation 0.497
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    8    75    204.173    0.030     0
+     2    8    75    181.327    0.035     2
+Total extinctions: 0
+Generation time: 2.793 sec (2.538 average)
+
+Best individual in generation 8 meets fitness threshold - complexity: (1, 6)
+Validation: generation=8 avg_score=24.00 best_score=25 avg_survival=24.96s
+
+ ****** Running generation 9 ****** 
+
+Population's average fitness: 3.76320 stdev: 21.92595
+Best fitness: 195.77333 - size: (1, 6) - species 1 - id 1294
+Average adjusted fitness: 0.030
+Mean genetic distance 1.634, standard deviation 0.470
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1    9    75    195.773    0.039     1
+     2    9    75     58.513    0.020     3
+Total extinctions: 0
+Generation time: 3.112 sec (2.595 average)
+Saving checkpoint to models/neat-single-jump-checkpoint-10
+
+Best individual in generation 9 meets fitness threshold - complexity: (1, 6)
+Validation: generation=9 avg_score=24.00 best_score=25 avg_survival=24.96s
+
+ ****** Running generation 10 ****** 
+
+Population's average fitness: 32.87031 stdev: 300.66462
+Best fitness: 3680.47000 - size: (1, 5) - species 1 - id 1533
+Average adjusted fitness: 0.009
+Mean genetic distance 1.761, standard deviation 0.495
+Population of 150 members in 2 species (after reproduction):
+   ID   age  size   fitness   adj fit  stag
+  ====  ===  ====  =========  =======  ====
+     1   10    96   3680.470    0.017     0
+     2   10    54    117.430    0.002     4
+Total extinctions: 0
+Generation time: 5.487 sec (2.912 average)
+
+Best individual in generation 10 meets fitness threshold - complexity: (1, 5)
+Validation: generation=10 avg_score=442.00 best_score=912 avg_survival=413.83s
+Reached target score 200 at generation 10.
+Saved NEAT winner to models/neat_single_jump_winner.pkl
